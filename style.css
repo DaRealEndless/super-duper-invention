@@ -1,0 +1,33 @@
+.header {
+    margin: 0px;
+    width: 100%;
+    font-size: 23px;
+}
+
+.start,
+#detector,
+.number_of_objects {
+    font-size: 15px;
+}
+
+#copyright {
+    position: fixed;
+    bottom: 0;
+    background: rgba(128, 128, 128, 0.750);
+    width: 100%;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 23px;
+    font-weight: bolder;
+}
+
+canvas {
+    margin-top: 45;
+    border: 10px solid gainsboro;
+    box-shadow: 5px 5px 10px black;
+}
+
+hr {
+    border: 3px solid rgb(71, 64, 64);
+    width: 1500px;
+}
